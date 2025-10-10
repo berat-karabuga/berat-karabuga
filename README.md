@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Berat</h1>
-<h3 align="center">A new Android Developer from Turkey</h3>
-
 - 🌱 I’m currently learning **Meta Android Developer Professional Certificate**
 
 - 🎨I make GifArt [https://www.instagram.com/stargazergif?igsh=MXU2bTFkdWJxM3VoMA==](https://www.instagram.com/stargazergif?igsh=MXU2bTFkdWJxM3VoMA==)
